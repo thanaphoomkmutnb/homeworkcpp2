@@ -17,12 +17,12 @@ C++ การบ้าน ครั้งที่ 2
 --------------------
 ผลลัพธ์
 --------------------
-****HomeWork 2******
-Enter Name                 : Thanaphoom Arunchit
-Enter Salary               : 25000
-Enter Sale                 : 30000
-Enter Commission Percent   : 5
------Output----------
-Your Name = Thanaphoom Arunchit
-Total Revenue  26500 Bath
+****HomeWork 2******<br/>
+Enter Name                 : Thanaphoom Arunchit<br/>
+Enter Salary               : 25000<br/>
+Enter Sale                 : 30000<br/>
+Enter Commission Percent   : 5<br/>
+-----Output----------<br/>
+Your Name = Thanaphoom Arunchit<br/>
+Total Revenue  26500 Bath<br/><br/>
 --------------------
